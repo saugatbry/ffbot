@@ -1,0 +1,10 @@
+requests>=2.31.0
+psutil>=5.9.0
+PyJWT>=2.8.0
+urllib3>=2.0.0
+pytz>=2023.3
+aiohttp>=3.9.0
+protobuf>=4.25.0
+protobuf-decoder>=0.1.0
+cfonts>=1.5.2
+pycryptodome>=3.20.0
